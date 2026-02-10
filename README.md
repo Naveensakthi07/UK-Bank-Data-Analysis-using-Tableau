@@ -13,5 +13,5 @@ D. Create a Histogram displaying the distribution of balance and transactions pr
 E. Create a Tree-map displaying the number of transactions processed within the classification of each job.
 F. Create a Dashboard using all the charts. Make use of Action Filters as it will further improve the analyzing experience for the management.
 
-## LInks 
+## Links 
 https://public.tableau.com/views/Uk-Bank_17707349356630/Sheet17?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
