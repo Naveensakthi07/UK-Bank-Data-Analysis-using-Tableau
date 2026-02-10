@@ -1,7 +1,7 @@
 # UK-Bank-Data-Analysis-using-Tableau
 
-## Description Bank that is currently operating in United 
- Kingdomto and Too help them to ease the process of analyzing its data. The    
+## Description 
+Bank that is currently operating in United Kingdom and Too help them to ease the process of analyzing its data. The    
  management has provided with a few queries for you to solve.
  
 ## Question
